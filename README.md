@@ -1,4 +1,7 @@
-## Hello World!
+## Welcome to my GitHub!
+
+[<img align="right" width="350" height = "200" src="https://c.tenor.com/10Zdx_RXqgcAAAAC/programming-crazy.gif"/>](https://github.com/ariqM1/)
+
 
 <a href="https://www.linkedin.com/in/ariq-mukul-b67553205/">
   <img align="left" alt="Ariq's LinkedIn" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
