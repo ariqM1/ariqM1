@@ -1,6 +1,6 @@
 ## Welcome to my GitHub!
 
-[<img align="right" width="350" height = "200" src="https://c.tenor.com/10Zdx_RXqgcAAAAC/programming-crazy.gif"/>](https://github.com/ariqM1/)
+[<img align="right" width="300" height = "200" src="https://c.tenor.com/10Zdx_RXqgcAAAAC/programming-crazy.gif"/>](https://github.com/ariqM1/)
 
 
 <a href="https://www.linkedin.com/in/ariq-mukul-b67553205/">
