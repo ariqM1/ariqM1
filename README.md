@@ -23,7 +23,7 @@
 
 ## This is Ariq Mukul!
 #### Computer Science | Undergraduate Student
-#### *Currently looking for Software Engineering, Machine Learning Engineer Roles!*
+#### *Currently looking for Software Engineer, Machine Learning Engineer Roles!*
 - Machine learning enthusiast.
 - A second year student at Georgia Tech [(GT)](https://www.gatech.edu/), completing my BS degree in Computer Science. 
 - Currently working on a stock trading bot that can buy and sell stock using algorithmic trading.
