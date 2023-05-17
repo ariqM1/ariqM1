@@ -25,7 +25,7 @@
 #### Computer Science | Undergraduate Student
 #### *Currently looking for Software Engineer, Machine Learning Engineer Roles!*
 - I hate discrete math so much.
-- A third-year student at Georgia Tech [(GT)](https://www.gatech.edu/), completing my BS degree in Computer Science. 
+- A fourth-year student at Georgia Tech [(GT)](https://www.gatech.edu/), completing my BS degree in Computer Science. 
 - Currently working on a stock trading bot that can buy and sell stock using algorithmic trading.
 
 **To know more:**  [Website](https://github.com/ariqM1), [LinkedIn](https://www.linkedin.com/in/ariq-mukul-b67553205/), [Email](ariqmukul@gmail.com)
