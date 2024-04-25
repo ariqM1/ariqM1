@@ -11,18 +11,6 @@
   <img align="left" alt="Ariq's Github" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<a href=
-
-
-"https://twitter.com/MukulAriq">
-  <img align="left" alt=
-
-
-"Ariq's Twitter" width="15px" src=
-
-
-"https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" />
-</a>
 
 <a href="https://www.instagram.com/ariqmukul/?hl=en">
   <img align="left" alt="Ariq's Instagram" width="15px" src="https://cdn.cdnlogo.com/logos/i/44/instagram-icon.svg" />
