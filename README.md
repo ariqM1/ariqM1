@@ -11,8 +11,17 @@
   <img align="left" alt="Ariq's Github" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<a href="https://twitter.com/MukulAriq">
-  <img align="left" alt="Ariq's Twitter" width="15px" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" />
+<a href=
+
+
+"https://twitter.com/MukulAriq">
+  <img align="left" alt=
+
+
+"Ariq's Twitter" width="15px" src=
+
+
+"https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" />
 </a>
 
 <a href="https://www.instagram.com/ariqmukul/?hl=en">
@@ -22,10 +31,9 @@
 
 
 ## This is Ariq Mukul!
-#### Computer Science | Undergraduate Student
-#### *Currently looking for Software Engineer (Backend, DevOps), Security Engineer Roles!*
+#### Computer Science | Software Engineer @ Genesys
 - I hate discrete math so much.
-- A fourth-year student at Georgia Tech [(GT)](https://www.gatech.edu/), completing my BS degree in Computer Science. 
+- Working as a Software Engineer on Genesys Cloud. 
 - Currently working on a stock trading bot that can buy and sell stock using algorithmic trading.
 
 **To know more:**  [Website](https://github.com/ariqM1), [LinkedIn](https://www.linkedin.com/in/ariq-mukul-b67553205/), [Email](ariqmukul@gmail.com)
