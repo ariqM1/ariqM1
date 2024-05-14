@@ -4,6 +4,8 @@
 
 👤 [ariq.app](https://ariq.app/)
 
+🔥 [LinkedIn] (https://www.linkedin.com/in/ariq-mukul/)
+
 📫 [ariqmukul@gmail.com](mailto:ariqmukul@gmail.com)
 
 JavaScript, TypeScript, Python, React, Next.js, HTML/CSS, Go, Node
