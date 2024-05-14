@@ -4,7 +4,7 @@
 
 👤 [ariq.app](https://ariq.app/)
 
-🔥 [LinkedIn](https://www.linkedin.com/in/ariq-mukul/)
+🔥 [linkedin](https://www.linkedin.com/in/ariq-mukul/)
 
 📫 [ariqmukul@gmail.com](mailto:ariqmukul@gmail.com)
 
