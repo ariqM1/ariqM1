@@ -9,3 +9,5 @@
 📫 [ariqmukul@gmail.com](mailto:ariqmukul@gmail.com)
 
 JavaScript, TypeScript, Python, React, Next.js, HTML/CSS, Go, Node
+
+Other Skills: Docker, Kubernetes, Jenkins, AWS DevOps/Infrastructure
